@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___kasten-blau-45-11-fol-23v.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="1658" lry="2485" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="1658px" height="2485px"/>
+    <graphic url="Kasten_blau_45-11_fol_23r.jpg" width="1658px" height="2485px"/>
     <zone points="119,422 1606,422 1606,2384 119,2384" rendition="TextRegion" xml:id="facs_1_region_1677165151470_376" subtype="paragraph">
         <zone points="275,533 836,508 1256,500 1597,490 1598,540 1257,550 837,558 277,583" rendition="Line" xml:id="facs_1_line_1677165157594_379"/>
         <zone points="280,601 744,598 1102,601 1500,576 1503,626 1103,651 744,648 280,651" rendition="Line" xml:id="facs_1_line_1677165162013_384"/>
@@ -116,7 +116,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="1658" lry="2485" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpg" width="1658px" height="2485px"/>
+    <graphic url="Kasten_blau_45-11_fol_23v.jpg" width="1658px" height="2485px"/>
     <zone points="77,377 1612,377 1612,1883 77,1883" rendition="TextRegion" xml:id="facs_2_region_1677165070063_302" subtype="paragraph">
         <zone points="212,484 640,471 1093,469 1607,464 1607,514 1093,519 641,521 213,534" rendition="Line" xml:id="facs_2_line_1677165077750_305"/>
         <zone points="216,590 632,556 1057,547 1529,522 1531,572 1059,597 634,606 220,640" rendition="Line" xml:id="facs_2_line_1677165083152_310"/>
@@ -138,7 +138,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=BELQTQJEZZKWJPOGBPAIOJSO&amp;fileType=view" id="Kasten_blau_45-11_fol_23r.jpg"/>
     <p facs="#facs_1_region_1677165151470_376">
       <lb facs="#facs_1_line_1677165157594_379" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
       <lb facs="#facs_1_line_1677165162013_384" n="N002"/>Ich bitte gehorsamist vmb vergebung, das die
@@ -159,7 +159,7 @@
       <lb facs="#facs_1_line_1677165227858_459" n="N017"/>geschikt worden, gott gebe sein gnahd, das
       <lb facs="#facs_1_line_1677165232426_464" n="N018"/>alles wohl möge abgehn zue ewer Durchlaucht satisfac-
       <lb facs="#facs_1_line_1677165237299_469" n="N019"/>tion vndt sie gelüklich dero vohrgenommene</p>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=MRHODMUUPEHAVJMVXGVTXVFN&amp;fileType=view" id="Kasten_blau_45-11_fol_23v.jpg"/>
     <p facs="#facs_2_region_1677165070063_302">
       <lb facs="#facs_2_line_1677165077750_305" n="N001"/>reis mögen volenden vndt ich mit der zeitung
       <lb facs="#facs_2_line_1677165083152_310" n="N002"/>dero gelüklige ankunft auf Neüburg möge

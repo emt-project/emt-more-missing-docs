@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___77-8811-korrespondenz-kurfursten.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="2463" lry="3718" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="2463px" height="3718px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00071.jpg" width="2463px" height="3718px"/>
     <zone points="104,104 2316,93 2330,1385 2326,3589 55,3583 47,1400" rendition="TextRegion" xml:id="facs_1_TextRegion_1674814641757_1222">
         <zone points="138,148 257,144 400,144 512,140 647,152 804,174 903,162 1000,179 991,228 902,212 804,224 641,202 511,190 401,194 258,194 140,198" rendition="Line" xml:id="facs_1_line_1675088566737_7"/>
         <zone points="166,227 293,227 407,225 551,240 720,244 899,242 986,246 984,296 898,292 720,294 548,290 405,275 293,277 166,277" rendition="Line" xml:id="facs_1_line_1675088574396_12"/>
@@ -119,7 +119,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="2598" lry="3934" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpg" width="2598px" height="3934px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00072jpg.jpg" width="2598px" height="3934px"/>
     <zone points="264,1314 929,1329 909,2471 244,2456" rendition="TextRegion" xml:id="facs_2_tr_1">
         <zone points="472,2373 439,1833 437,1340 487,1340 489,1832 522,2370" rendition="Line" xml:id="facs_2_line_1674814732988_1264"/>
         <zone points="596,2367 604,1814 577,1323 627,1321 654,1813 646,2368" rendition="Line" xml:id="facs_2_line_1674814736908_1269"/>
@@ -131,7 +131,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=JYKHLFGCWKOGAMLTIHUISILC&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00071.jpg"/>
     <ab facs="#facs_1_TextRegion_1674814641757_1222" >
       <lb facs="#facs_1_line_1675088566737_7" n="N001"/><unclear>Ist eigenhändig den 25.</unclear>
       <lb facs="#facs_1_line_1675088574396_12" n="N002"/><unclear><choice><expan>decembris</expan><abbr>xbris</abbr></choice> beantwortet</unclear>
@@ -155,7 +155,7 @@
       <lb facs="#facs_1_line_1675088700537_64" n="N020"/>treweste schw<supplied >e</supplied>ster
       <lb facs="#facs_1_line_1675088705283_69" n="N021"/>EMT
       <lb facs="#facs_1_line_1675088693899_59" n="N022"/>Wien den 7ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1686</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=OQATTJNSUPOKRVEPWAFQYYXB&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00072jpg.jpg"/>
     <ab facs="#facs_2_tr_1" >
       <lb facs="#facs_2_line_1674814732988_1264" n="N001"/>Ihr <choice><expan>LIebden</expan><abbr>Ld</abbr></choice> Johan Wilhelm Pfalz-
       <lb facs="#facs_2_line_1674814736908_1269" n="N002"/>grauen bey Reyhn, meinem herz

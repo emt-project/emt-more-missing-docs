@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___kasten-blau-45-11-fol-68v.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="1658" lry="2485" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="1658px" height="2485px"/>
+    <graphic url="Kasten_blau_45-11_fol_67r.jpg" width="1658px" height="2485px"/>
     <zone points="43,398 1608,398 1608,2381 43,2381" rendition="TextRegion" xml:id="facs_1_region_1677166408731_998" subtype="paragraph">
         <zone points="257,468 278,752 301,1074 290,1317 295,1596 310,1783 297,2051 286,2366 236,2364 247,2049 260,1784 245,1598 240,1316 251,1075 228,755 207,471" rendition="Line" xml:id="facs_1_line_1677166542398_1107"/>
         <zone points="190,482 232,842 236,1177 249,1537 242,1923 232,2361 182,2360 192,1922 199,1537 186,1178 182,845 140,488" rendition="Line" xml:id="facs_1_line_1677166548545_1112"/>
@@ -121,7 +121,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="1647" lry="2481" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpg" width="1647px" height="2481px"/>
+    <graphic url="Kasten_blau_45-11_fol_67v.jpg" width="1647px" height="2481px"/>
     <zone points="116,356 1640,356 1640,2429 116,2429" rendition="TextRegion" xml:id="facs_2_region_1677166577259_1125" subtype="paragraph">
         <zone points="225,463 682,455 1088,449 1528,463 1527,513 1088,499 683,505 226,513" rendition="Line" xml:id="facs_2_line_1677166585201_1128"/>
         <zone points="252,546 866,544 1338,546 1587,557 1585,607 1337,596 866,594 252,596" rendition="Line" xml:id="facs_2_line_1677166590032_1133"/>
@@ -150,7 +150,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="1658" lry="2485" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpg" width="1658px" height="2485px"/>
+    <graphic url="Kasten_blau_45-11_fol_68r.jpg" width="1658px" height="2485px"/>
     <zone points="69,389 1614,389 1614,2410 69,2410" rendition="TextRegion" xml:id="facs_3_region_1677166738811_1259" subtype="paragraph">
         <zone points="207,443 604,419 1029,402 1591,376 1593,426 1031,452 606,469 210,493" rendition="Line" xml:id="facs_3_line_1677166750091_1262"/>
         <zone points="222,529 686,493 1080,462 1602,443 1604,493 1083,512 690,543 225,579" rendition="Line" xml:id="facs_3_line_1677166754603_1267"/>
@@ -180,7 +180,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="1647" lry="2481" xml:id="facs_4">
-    <graphic url="%2Ffiles.jpg" width="1647px" height="2481px"/>
+    <graphic url="Kasten_blau_45-11_fol_68v.jpg" width="1647px" height="2481px"/>
     <zone points="64,292 1626,292 1626,1678 64,1678" rendition="TextRegion" xml:id="facs_4_region_1677166906671_1412" subtype="paragraph">
         <zone points="143,382 621,336 1197,330 1205,361 1577,339 1578,389 1176,401 1167,370 624,386 147,432" rendition="Line" xml:id="facs_4_line_1677166913927_1415"/>
         <zone points="200,439 794,404 1270,413 1582,428 1580,478 1268,463 795,454 203,489" rendition="Line" xml:id="facs_4_line_1677166918300_1420"/>
@@ -204,7 +204,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=PHIAVOFCZSIKKYXHHMCEFQNM&amp;fileType=view" id="Kasten_blau_45-11_fol_67r.jpg"/>
     <p facs="#facs_1_region_1677166408731_998">
       <lb facs="#facs_1_line_1677166542398_1107" n="N001"/><seg type="comment">So eben sagen mihr <unclear>ewer</unclear> Mayestät, das der Cardinal Albrizi</seg>
       <lb facs="#facs_1_line_1677166548545_1112" n="N002"/><seg type="comment">geschrieben, er hoffe, in 14 dagen werde das coadiutori werk bey</seg>
@@ -230,7 +230,7 @@
       <lb facs="#facs_1_line_1677166506995_1091" n="N022"/>was ich geschrieben, das habe freilich aus ihr Mayestät
       <lb facs="#facs_1_line_1677166510593_1096" n="N023"/>befehl gedahn, vndt hier ist nuhnmehr schon
       <lb facs="#facs_1_line_1677166515004_1101" n="N024"/>ganz offenbahr, vndt macht kein mensch kein</p>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=WRABTLWQKHGNYWTQZAWADBZR&amp;fileType=view" id="Kasten_blau_45-11_fol_67v.jpg"/>
     <p facs="#facs_2_region_1677166577259_1125">
       <lb facs="#facs_2_line_1677166585201_1128" n="N001"/>geheimnus mehr daraus. Wen ihr Durchlaucht mit sollen
       <lb facs="#facs_2_line_1677166590032_1133" n="N002"/>bringen, sagen ihr Mayestät, sey ihnen alles recht, wie
@@ -256,7 +256,7 @@
       <lb facs="#facs_2_line_1677166708011_1238" n="N022"/>ichs <choice><expan>Pater</expan><abbr>P</abbr></choice> Danner vndt dem Schellerer sagen derf.
       <lb facs="#facs_2_line_1677166712869_1243" n="N023"/>So, mein ich, könen ewer Durchlaucht sich auch wohl ohne
       <lb facs="#facs_2_line_1677166717749_1248" n="N024"/>gros rumor etwas darnach richten. Die brief habe</p>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+    <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=NEPMESENAGZWJQMUYVZSEHNU&amp;fileType=view" id="Kasten_blau_45-11_fol_68r.jpg"/>
     <p facs="#facs_3_region_1677166738811_1259">
       <lb facs="#facs_3_line_1677166750091_1262" n="N001"/>ihr Mayestät der Kaiserin überantwort, vndt wirt sie
       <lb facs="#facs_3_line_1677166754603_1267" n="N002"/>auch heütt, wie sie mihr gesacht, ewer Durchlaucht antworten.
@@ -283,7 +283,7 @@
       <lb facs="#facs_3_line_1677166848436_1367" n="N023"/>zu melden, welchs gegen den Köniksekh möchte
       <lb facs="#facs_3_line_1677166875124_1388" n="N024"/>sein, dan sie seint gahr guette freunt. Bitt
       <lb facs="#facs_3_line_1677166860824_1377" n="N025"/>hierauf kein antwort. Wegen ewer Durchlaucht anhero konft</p>
-    <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+    <pb facs="#facs_4" n="4" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=OYMENSBCNIVNLCILHUBOWYSR&amp;fileType=view" id="Kasten_blau_45-11_fol_68v.jpg"/>
     <p facs="#facs_4_region_1677166906671_1412">
       <lb facs="#facs_4_line_1677166913927_1415" n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> habe wohl gewis mein bests gedahn, aber niks
       <lb facs="#facs_4_line_1677166918300_1420" n="N002"/>erhalten können bis auf halben julij, wie sch<supplied >o</supplied>n

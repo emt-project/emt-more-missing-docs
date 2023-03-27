@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___77-8811-korrespondenz-kurfursten-6.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="2017" lry="3195" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="2017px" height="3195px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00093.jpg" width="2017px" height="3195px"/>
     <zone points="83,734 1961,734 1931,3056 53,3056" rendition="TextRegion" xml:id="facs_1_tr_2">
         <zone points="278,1025 861,998 1480,1006 1973,989 1975,1039 1480,1056 862,1048 280,1075" rendition="Line" xml:id="facs_1_line_1674815701694_1879"/>
         <zone points="197,1187 710,1149 1302,1168 1868,1146 1870,1196 1302,1218 711,1199 200,1237" rendition="Line" xml:id="facs_1_line_1674815705799_1884"/>
@@ -110,7 +110,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="2609" lry="3393" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpg" width="2609px" height="3393px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00094.jpg" width="2609px" height="3393px"/>
     <zone points="392,215 2365,215 2385,3261 412,3261" rendition="TextRegion" xml:id="facs_2_tr_1">
         <zone points="504,331 525,331 570,328 615,331 660,328 704,328 749,325 794,325 839,325 884,328 928,328 973,331 1018,331 1063,334 1108,337 1152,331 1197,328 1242,325 1287,325 1332,319 1376,316 1421,313 1466,310 1511,307 1556,298 1600,289 1645,289 1690,280 1735,271 1780,268 1824,262 1869,256 1914,250 1959,241 2004,238 2048,226 2093,220 2138,223 2183,223 2228,220 2272,226 2317,235 2362,244 2362,294 2317,285 2272,276 2228,270 2183,273 2138,273 2093,270 2048,276 2004,288 1959,291 1914,300 1869,306 1824,312 1780,318 1735,321 1690,330 1645,339 1600,339 1556,348 1511,357 1466,360 1421,363 1376,366 1332,369 1287,375 1242,375 1197,378 1152,381 1108,387 1063,384 1018,381 973,381 928,378 884,378 839,375 794,375 749,375 704,378 660,378 615,381 570,378 525,381 504,381" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
         <zone points="483,492 555,486 2129,385 2174,385 2219,385 2263,385 2308,394 2308,444 1496,503 1227,521 1093,527 510,545 483,542" rendition="Line" xml:id="facs_2_line_1675094244418_383"/>
@@ -139,7 +139,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=XSKNPAYWMRNSSQVSAZVSWSPZ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00093.jpg"/>
     <ab facs="#facs_1_tr_2" >
       <lb facs="#facs_1_line_1674815701694_1879" n="N001"/>Durchleüchtiger Fürst, herz allerlibster herbrueder
       <lb facs="#facs_1_line_1674815705799_1884" n="N002"/>Ich hab durch den von Gahlen dero liebsts schreiben
@@ -154,7 +154,7 @@
       <lb facs="#facs_1_line_1674815750572_1914" n="N011"/>verners zue comportiren haben wi<supplied >r</supplied>t. Vohr
       <lb facs="#facs_1_line_1674815755875_1919" n="N012"/>allem müeßen mihr sehen, Beyren kein gelosia
       <lb facs="#facs_1_line_1674815760557_1924" n="N013"/>zu geben vnd seinem brudern <choice><expan>Prinz</expan><abbr>P</abbr></choice> Clement</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=BEEOBYXETGQWOZUFKVKCNPYZ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00094.jpg"/>
     <ab facs="#facs_2_tr_1" >
       <lb facs="#facs_2_tr_1_tl_1" n="N001"/>so woll zue der wahl als allem vohr allen
       <lb facs="#facs_2_line_1675094244418_383" n="N002"/>beförderlich sein, wie auch des Cauniz

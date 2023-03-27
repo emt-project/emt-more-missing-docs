@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___77-8806c-4.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="527" lry="803" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="527px" height="803px"/>
+    <graphic url="77_8806c_0012.jpg" width="527px" height="803px"/>
     <zone points="35,220 499,220 517,347 519,508 519,741 30,741 28,551 28,347" rendition="TextRegion" xml:id="facs_1_TextRegion_1674816107436_2122">
         <zone points="72,225 85,226 98,226 111,225 124,225 137,225 151,227 164,227 177,227 190,227 203,227 217,228 230,229 243,229 256,229 269,229 282,230 296,232 309,233 322,234 335,235 348,236 361,237 375,237 388,237 401,238 414,239 427,240 441,240 454,242 467,244 480,246 488,245 488,295 480,296 467,294 454,292 441,290 427,290 414,289 401,288 388,287 375,287 361,287 348,286 335,285 322,284 309,283 296,282 282,280 269,279 256,279 243,279 230,279 217,278 203,277 190,277 177,277 164,277 151,277 137,275 124,275 111,275 98,276 85,276 72,275" rendition="Line" xml:id="facs_1_tr_4_tl_1"/>
         <zone points="52,272 65,272 79,271 92,270 105,270 118,269 131,270 144,270 158,271 171,272 184,272 197,273 210,273 224,273 237,275 250,276 263,276 276,276 289,277 303,278 316,278 329,279 342,279 355,279 368,280 382,282 395,283 408,285 421,286 434,287 448,286 461,287 474,288 487,288 499,289 499,339 487,338 474,338 461,337 448,336 434,337 421,336 408,335 395,333 382,332 368,330 355,329 342,329 329,329 316,328 303,328 289,327 276,326 263,326 250,326 237,325 224,323 210,323 197,323 184,322 171,322 158,321 144,320 131,320 118,319 105,320 92,320 79,321 65,322 52,322" rendition="Line" xml:id="facs_1_tr_4_tl_2"/>
@@ -109,7 +109,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="517" lry="797" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpg" width="517px" height="797px"/>
+    <graphic url="77_8806c_0019a.jpg" width="517px" height="797px"/>
     <zone points="31,10 507,10 510,366 510,487 510,669 508,775 31,775 27,669 27,487 27,366" rendition="TextRegion" xml:id="facs_2_TextRegion_1674816138404_2139">
         <zone points="43,20 56,19 68,18 81,18 94,17 107,17 120,16 133,16 146,15 159,15 172,15 185,15 198,15 211,16 224,15 236,15 249,16 262,16 275,17 288,17 301,17 314,17 327,17 340,17 353,18 366,18 379,18 392,18 404,18 417,18 430,20 443,20 456,21 469,22 482,23 495,23 507,23 507,73 495,73 482,73 469,72 456,71 443,70 430,70 417,68 404,68 392,68 379,68 366,68 353,68 340,67 327,67 314,67 301,67 288,67 275,67 262,66 249,66 236,65 224,65 211,66 198,65 185,65 172,65 159,65 146,65 133,66 120,66 107,67 94,67 81,68 68,68 56,69 43,70" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
         <zone points="34,58 36,58 49,56 62,55 74,54 87,54 100,54 113,53 126,53 139,52 152,52 165,52 178,52 191,53 204,54 217,54 230,55 242,55 255,56 268,55 281,56 294,57 307,57 320,57 333,57 346,56 359,58 372,57 385,57 398,56 410,57 423,57 436,56 449,56 462,56 475,56 488,57 488,107 475,106 462,106 449,106 436,106 423,107 410,107 398,106 385,107 372,107 359,108 346,106 333,107 320,107 307,107 294,107 281,106 268,105 255,106 242,105 230,105 217,104 204,104 191,103 178,102 165,102 152,102 139,102 126,103 113,103 100,104 87,104 74,104 62,105 49,106 36,108 34,108" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
@@ -133,7 +133,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="524" lry="792" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpg" width="524px" height="792px"/>
+    <graphic url="77_8806c_0019b.jpg" width="524px" height="792px"/>
     <zone points="20,9 503,9 506,567 506,785 27,785 18,599 18,441" rendition="TextRegion" xml:id="facs_3_TextRegion_1674825184865_2167">
         <zone points="33,17 43,17 56,17 69,16 82,16 96,16 109,15 122,15 135,16 148,14 161,14 174,14 187,15 200,15 213,15 227,15 240,16 253,16 266,16 279,16 292,15 305,16 318,16 331,16 344,16 358,15 371,16 384,15 397,15 410,15 423,16 436,16 449,16 462,16 475,16 488,16 488,66 475,66 462,66 449,66 436,66 423,66 410,65 397,65 384,65 371,66 358,65 344,66 331,66 318,66 305,66 292,65 279,66 266,66 253,66 240,66 227,65 213,65 200,65 187,65 174,64 161,64 148,64 135,66 122,65 109,65 96,66 82,66 69,66 56,67 43,67 33,67" rendition="Line" xml:id="facs_3_tr_4_tl_1"/>
         <zone points="23,55 36,56 49,56 62,54 75,53 89,53 102,53 115,52 128,53 141,54 154,54 167,54 180,54 193,54 206,55 220,55 233,56 246,57 259,57 272,58 285,58 298,59 311,59 324,59 337,59 351,58 364,58 377,59 390,60 403,59 416,59 429,60 442,60 455,60 468,61 482,62 495,61 503,63 503,113 495,111 482,112 468,111 455,110 442,110 429,110 416,109 403,109 390,110 377,109 364,108 351,108 337,109 324,109 311,109 298,109 285,108 272,108 259,107 246,107 233,106 220,105 206,105 193,104 180,104 167,104 154,104 141,104 128,103 115,102 102,103 89,103 75,103 62,104 49,106 36,106 23,105" rendition="Line" xml:id="facs_3_tr_4_tl_2"/>
@@ -163,7 +163,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=QPBINEREXBVXXFSATQWFMNQX&amp;fileType=view" id="77_8806c_0012.jpg"/>
     <ab facs="#facs_1_TextRegion_1674816107436_2122" >
       <lb facs="#facs_1_tr_4_tl_1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_tr_4_tl_2" n="N002"/>Ich hab dero libste sch<supplied >rei</supplied>ben vom 12ten dis woll empfangen.
@@ -177,7 +177,7 @@
       <lb facs="#facs_1_tr_3_tl_3" n="N010"/>machen, welchs er mihr verschprochen, gern zu duen, so
       <lb facs="#facs_1_tr_3_tl_4" n="N011"/>wi<supplied >r</supplied>t als gutt gehen. Mein sohn, den Kö<supplied >ni</supplied>g, wirt mein Keiser
       <lb facs="#facs_1_tr_3_tl_5" n="N012"/>gern hinauf schiken, wan man nuhr ein sol<supplied >c</supplied>he</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=YVDEXAWCTDDNZJKYECYBVJXB&amp;fileType=view" id="77_8806c_0019a.jpg"/>
     <ab facs="#facs_2_TextRegion_1674816138404_2139" >
       <lb facs="#facs_2_tr_1_tl_1" n="N001"/>arme zue sammen brengen kan, das man ein gloriose
       <lb facs="#facs_2_tr_1_tl_2" n="N002"/>operation duen kan. Iezt ist der <unclear>Endigks</unclear> hier, mir
@@ -198,7 +198,7 @@
       <lb facs="#facs_2_tr_5_tl_1" n="N017"/>hart zu Rohm her, wan dah dero LIebden auch dem General
       <lb facs="#facs_2_tr_5_tl_2" n="N018"/>die sach eifrig reccomendirte vnd villeicht durch
       <lb facs="#facs_2_tr_5_tl_3" n="N019"/>den Nunti beim Papst die sach dah<supplied >i</supplied>n dirigiren, das</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+    <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=NQJBDBQNUMTPTZPWJNZUYUHP&amp;fileType=view" id="77_8806c_0019b.jpg"/>
     <ab facs="#facs_3_TextRegion_1674825184865_2167" >
       <lb facs="#facs_3_tr_4_tl_1" n="N001"/>der Papst denen patribus sagen ließ, das er es
       <lb facs="#facs_3_tr_4_tl_2" n="N002"/>verlange, so müeßen sie es woll duen, sonst, förcht

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___77-8806c.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="566" lry="844" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="566px" height="844px"/>
+    <graphic url="77_8806c_0002.jpg" width="566px" height="844px"/>
     <zone points="10,33 92,35 549,243 552,647 552,802 26,802 10,235" rendition="TextRegion" xml:id="facs_1_TextRegion_1674815978586_2063">
         <zone points="84,260 85,260 99,258 114,258 128,258 142,258 156,257 170,257 184,256 198,258 213,258 227,258 241,258 255,258 269,257 283,257 297,257 312,257 326,257 340,257 354,257 368,257 382,257 397,257 411,256 425,257 439,256 453,255 467,254 481,254 496,252 510,250 524,248 538,248 538,298 524,298 510,300 496,302 481,304 467,304 453,305 439,306 425,307 411,306 397,307 382,307 368,307 354,307 340,307 326,307 312,307 297,307 283,307 269,307 255,308 241,308 227,308 213,308 198,308 184,306 170,307 156,307 142,308 128,308 114,308 99,308 85,310 84,310" rendition="Line" xml:id="facs_1_tr_3_tl_1"/>
         <zone points="42,314 44,313 58,310 72,307 86,305 100,304 115,304 129,304 143,304 157,304 171,303 185,303 199,302 214,302 228,302 242,302 256,302 270,302 284,302 298,302 313,301 327,302 341,302 355,301 369,302 383,302 397,300 412,299 426,297 440,297 454,296 468,296 482,297 496,296 511,294 511,344 496,346 482,347 468,346 454,346 440,347 426,347 412,349 397,350 383,352 369,352 355,351 341,352 327,352 313,351 298,352 284,352 270,352 256,352 242,352 228,352 214,352 199,352 185,353 171,353 157,354 143,354 129,354 115,354 100,354 86,355 72,357 58,360 44,363 42,364" rendition="Line" xml:id="facs_1_tr_3_tl_2"/>
@@ -113,7 +113,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="555" lry="861" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpg" width="555px" height="861px"/>
+    <graphic url="77_8806c_0003a.jpg" width="555px" height="861px"/>
     <zone points="42,7 528,7 549,570 549,804 31,804 31,570 33,118" rendition="TextRegion" xml:id="facs_2_TextRegion_1674826214412_2409">
         <zone points="42,15 57,15 71,13 85,13 98,13 112,13 126,13 140,12 154,13 168,14 182,14 196,15 209,16 223,16 237,16 251,16 265,16 279,16 293,16 307,14 320,14 334,13 348,14 362,15 376,14 390,15 404,15 418,14 431,14 445,15 459,15 473,16 487,16 501,16 515,16 528,16 528,66 515,66 501,66 487,66 473,66 459,65 445,65 431,64 418,64 404,65 390,65 376,64 362,65 348,64 334,63 320,64 307,64 293,66 279,66 265,66 251,66 237,66 223,66 209,66 196,65 182,64 168,64 154,63 140,62 126,63 112,63 98,63 85,63 71,63 57,65 42,65" rendition="Line" xml:id="facs_2_tr_4_tl_1"/>
         <zone points="47,54 55,53 69,53 83,53 97,52 110,52 124,52 138,52 152,52 166,53 180,53 194,54 208,54 221,54 235,55 249,57 263,55 277,55 291,55 305,54 319,53 332,53 346,53 360,53 374,53 388,53 402,53 416,53 430,53 443,53 457,53 471,53 485,53 499,52 513,51 527,51 527,101 513,101 499,102 485,103 471,103 457,103 443,103 430,103 416,103 402,103 388,103 374,103 360,103 346,103 332,103 319,103 305,104 291,105 277,105 263,105 249,107 235,105 221,104 208,104 194,104 180,103 166,103 152,102 138,102 124,102 110,102 97,102 83,103 69,103 55,103 47,104" rendition="Line" xml:id="facs_2_tr_4_tl_2"/>
@@ -138,7 +138,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="542" lry="849" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpg" width="542px" height="849px"/>
+    <graphic url="77_8806c_0003b.jpg" width="542px" height="849px"/>
     <zone points="12,12 511,12 526,192 529,308 529,495 526,748 524,829 22,829 15,748 11,495 11,308" rendition="TextRegion" xml:id="facs_3_TextRegion_1674826266817_2426">
         <zone points="17,20 30,20 44,19 57,19 71,17 84,17 98,18 111,18 125,17 139,18 152,18 166,18 179,18 193,19 206,19 220,19 233,20 247,20 261,20 274,20 288,20 301,20 315,20 328,20 342,20 355,20 369,20 382,20 396,20 410,19 423,20 437,20 450,21 464,21 477,22 491,22 492,22 492,72 491,72 477,72 464,71 450,71 437,70 423,70 410,69 396,70 382,70 369,70 355,70 342,70 328,70 315,70 301,70 288,70 274,70 261,70 247,70 233,70 220,69 206,69 193,69 179,68 166,68 152,68 139,68 125,67 111,68 98,68 84,67 71,67 57,69 44,69 30,70 17,70" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
         <zone points="15,59 28,60 42,59 55,58 69,57 83,57 96,56 110,57 123,57 137,58 150,57 164,57 177,57 191,57 205,57 218,57 232,57 245,57 259,57 272,57 286,57 299,57 313,57 326,57 340,57 354,57 367,57 381,57 394,56 408,56 421,56 435,56 448,57 462,57 475,57 489,58 497,60 497,110 489,108 475,107 462,107 448,107 435,106 421,106 408,106 394,106 381,107 367,107 354,107 340,107 326,107 313,107 299,107 286,107 272,107 259,107 245,107 232,107 218,107 205,107 191,107 177,107 164,107 150,107 137,108 123,107 110,107 96,106 83,107 69,107 55,108 42,109 28,110 15,109" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
@@ -164,7 +164,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="527" lry="803" xml:id="facs_4">
-    <graphic url="%2Ffiles.jpg" width="527px" height="803px"/>
+    <graphic url="77_8806c_0004a.jpg" width="527px" height="803px"/>
     <zone points="25,23 556,22 555,828 24,829" rendition="TextRegion" xml:id="facs_4_region_1674825410191_2232">
         <zone points="47,19 174,14 328,12 543,21 541,71 327,62 175,64 49,69" rendition="Line" xml:id="facs_4_line_1674825429478_2238"/>
         <zone points="40,51 236,49 405,56 543,56 543,106 404,106 235,99 40,101" rendition="Line" xml:id="facs_4_line_1674825434368_2243"/>
@@ -198,7 +198,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=REVHZRGQQGMCRVVPSBBETMOL&amp;fileType=view" id="77_8806c_0002.jpg"/>
     <ab facs="#facs_1_TextRegion_1674815978586_2063" >
       <lb facs="#facs_1_tr_3_tl_1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_tr_3_tl_2" n="N002"/>Zue vodrist wüntsche dero Liebden alles erdenkhlige wollerg<supplied >e</supplied>hen zu
@@ -216,7 +216,7 @@
       <lb facs="#facs_1_line_1674815970778_2057" n="N014"/>Bitt bey der <choice><expan>lieben</expan><abbr>lb</abbr></choice> gem<supplied >a</supplied>hl <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> mich
       <lb facs="#facs_1_line_1674825858591_2376" n="N015"/>zue entschuldigen, ist mihr ein mahl vnmeschlich <supplied >zu</supplied> sch<supplied >rei</supplied>ben, <supplied >bitte</supplied> mich ihr zum schonsten <supplied >zu befehlen</supplied>. An <choice><expan>schwester</expan><abbr>schw</abbr></choice> <supplied >in</supplied> Parma wollen
       <lb facs="#facs_1_line_1674825862147_2381" n="N016"/>dero Liebden in <unclear>mein dienst</unclear> willige <unclear>???</unclear></ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=PPFGFMGLZBHUUXECESKBPPGX&amp;fileType=view" id="77_8806c_0003a.jpg"/>
     <ab facs="#facs_2_TextRegion_1674826214412_2409" >
       <lb facs="#facs_2_tr_4_tl_1" n="N001"/>vonöten vndt also von disen <unclear>20</unclear> <unclear>m</unclear> man nit gar zuevill wirt
       <lb facs="#facs_2_tr_4_tl_2" n="N002"/>übrich bleiben in das felt zu sezen. Man wirt aber
@@ -238,7 +238,7 @@
       <lb facs="#facs_2_tr_3_tl_3" n="N018"/>arbeiten werden, nit zu trawen ist. Mehrer manschafft
       <lb facs="#facs_2_tr_3_tl_4" n="N019"/>ist nit vohrhanden, wan man auch newe will
       <lb facs="#facs_2_tr_3_tl_5" n="N020"/>zusammen brengen, so lest sich das nit in ein</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+    <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=XDLQBVJGZBYEOALRGBDTOPVV&amp;fileType=view" id="77_8806c_0003b.jpg"/>
     <ab facs="#facs_3_TextRegion_1674826266817_2426" >
       <lb facs="#facs_3_tr_1_tl_1" n="N001"/>augenblik duen, wie dero Liebden das selbsten höchsterleücht w<supplied >i</supplied>ßen.
       <lb facs="#facs_3_tr_1_tl_2" n="N002"/>Also wirt es schwehr sein, das man an Obern Rein vill
@@ -261,7 +261,7 @@
       <lb facs="#facs_3_tr_5_tl_4" n="N019"/>wirt dero Liebden mehres in diser materi zuereden. Einmahl 
       <lb facs="#facs_3_tr_2_tl_1" n="N020"/>werden dero Liebden mein Keißer, dem publico vndt sich selbsten
       <lb facs="#facs_3_line_1674826273310_2431" n="N021"/>den grösten dienst duen, wan sie sehen, das sie mit</ab>
-    <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+    <pb facs="#facs_4" n="4" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=TYDOXABTCROWWJDBCDLBMYYG&amp;fileType=view" id="77_8806c_0004a.jpg"/>
     <ab facs="#facs_4_region_1674825410191_2232" >
       <lb facs="#facs_4_line_1674825429478_2238" n="N001"/><unclear>jenem</unclear> <choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>Markgraven</expan><abbr>Morgr</abbr></choice> in gutter vndt vertreüliger verstantnus
       <lb facs="#facs_4_line_1674825434368_2243" n="N002"/>stehen vndt auch dazue cooperiren, das die andren

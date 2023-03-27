@@ -39,10 +39,10 @@ files = glob.glob("./alltei/*.xml")
 
 for x in files:
     item = {}
-    item['current_date'] = f"{date.today()}"
+    item["current_date"] = f"{date.today()}"
     heads, tail = os.path.split(x)
-    doc_id = tail.replace('_tei.xml', '')
-    
+    doc_id = tail.replace("_tei.xml", "")
+
     item["doc_id"] = doc_id
     item["col_id"] = img_map[doc_id]["col_id"]
     doc = TeiReader(x)
@@ -50,14 +50,22 @@ for x in files:
     item["title"] = f"FIX ME: {title} "
     item["sender"] = "Eleonora Magdalena von Pfalz-Neuburg"
     item["sender_id"] = "emt_person_id__9"
-    file_name = f"{slugify(title)}.xml"
+    file_name = f"emt___{slugify(title)}.xml"
+    item["file_name"] = file_name
     save_path = os.path.join(out_dir, file_name)
+    for i, pb in enumerate(doc.any_xpath(".//tei:graphic")):
+        same_as = img_map[doc_id]["img_file_names"][i]
+        pb.attrib["url"] = same_as
     facsimile = doc.any_xpath(".//tei:facsimile")[0]
     item["facsimile"] = (
         ET.tostring(facsimile, encoding="utf-8", pretty_print=True)
         .decode("utf-8")
         .replace(' xmlns="http://www.tei-c.org/ns/1.0"', "")
     )
+    for i, pb in enumerate(doc.any_xpath(".//tei:pb")):
+        same_as = img_map[doc_id]["images"][i]
+        pb.attrib["source"] = same_as
+        pb.attrib["id"] = f'{img_map[doc_id]["img_file_names"][i]}'
     body = doc.any_xpath(".//tei:body")[0]
     body_string = ET.tostring(body, encoding="utf-8", pretty_print=True).decode("utf-8")
     body_string = body_string.replace(' xmlns="http://www.tei-c.org/ns/1.0"', "")
@@ -72,3 +80,6 @@ for x in files:
     item["body_string"] = body_string
     with open(save_path.lower(), "w") as f:
         f.write(template.render(**item))
+
+for x in glob.glob(f"{out_dir}/*.xml"):
+    doc = TeiReader(x)

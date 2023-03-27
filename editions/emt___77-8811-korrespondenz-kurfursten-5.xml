@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___77-8811-korrespondenz-kurfursten-5.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="2402" lry="3831" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="2402px" height="3831px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00083.jpg" width="2402px" height="3831px"/>
     <zone points="56,1092 2321,1137 2352,3702 87,3657" rendition="TextRegion" xml:id="facs_1_tr_1">
         <zone points="408,1175 420,1178 465,1178 510,1175 554,1178 599,1181 644,1178 689,1178 733,1181 778,1181 823,1181 868,1181 912,1181 957,1181 1002,1178 1047,1181 1092,1181 1136,1181 1181,1181 1226,1187 1271,1187 1315,1187 1360,1181 1405,1181 1450,1178 1494,1175 1539,1172 1584,1169 1629,1166 1673,1166 1718,1163 1763,1163 1808,1160 1852,1157 1897,1151 1942,1151 1987,1151 2031,1148 2076,1145 2121,1142 2166,1142 2166,1192 2121,1192 2076,1195 2031,1198 1987,1201 1942,1201 1897,1201 1852,1207 1808,1210 1763,1213 1718,1213 1673,1216 1629,1216 1584,1219 1539,1222 1494,1225 1450,1228 1405,1231 1360,1231 1315,1237 1271,1237 1226,1237 1181,1231 1136,1231 1092,1231 1047,1231 1002,1228 957,1231 912,1231 868,1231 823,1231 778,1231 733,1231 689,1228 644,1228 599,1231 554,1228 510,1225 465,1228 420,1228 408,1225" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
         <zone points="369,1381 411,1387 456,1378 501,1375 546,1375 590,1372 635,1372 680,1369 725,1366 769,1369 814,1366 859,1366 904,1366 948,1366 993,1369 1038,1369 1083,1369 1127,1369 1172,1369 1217,1366 1262,1366 1306,1369 1351,1369 1396,1366 1441,1363 1485,1360 1530,1360 1575,1360 1620,1354 1664,1351 1709,1345 1754,1345 1799,1345 1843,1342 1888,1342 1933,1333 1978,1330 2022,1327 2067,1324 2112,1324 2157,1321 2157,1371 2112,1374 2067,1374 2022,1377 1978,1380 1933,1383 1888,1392 1843,1392 1799,1395 1754,1395 1709,1395 1664,1401 1620,1404 1575,1410 1530,1410 1485,1410 1441,1413 1396,1416 1351,1419 1306,1419 1262,1416 1217,1416 1172,1419 1127,1419 1083,1419 1038,1419 993,1419 948,1416 904,1416 859,1416 814,1416 769,1419 725,1416 680,1419 635,1422 590,1422 546,1425 501,1425 456,1428 411,1437 369,1431" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -111,7 +111,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="2781" lry="3696" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpg" width="2781px" height="3696px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00084.jpg" width="2781px" height="3696px"/>
     <zone points="429,179 2627,179 2592,3218 394,3218" rendition="TextRegion" xml:id="facs_2_tr_3">
         <zone points="474,352 498,349 540,331 585,325 629,316 674,310 719,301 764,295 809,289 853,283 898,277 943,277 988,271 1032,268 1077,265 1122,259 1167,253 1212,250 1256,244 1301,238 1346,232 1391,229 1436,223 1480,217 1525,211 1570,208 1615,208 1659,208 1704,205 1749,202 1794,199 1839,196 1883,196 1928,193 1973,193 2018,190 2062,190 2107,187 2152,184 2197,184 2242,184 2286,184 2331,187 2376,190 2421,202 2465,211 2510,223 2555,226 2555,276 2510,273 2465,261 2421,252 2376,240 2331,237 2286,234 2242,234 2197,234 2152,234 2107,237 2062,240 2018,240 1973,243 1928,243 1883,246 1839,246 1794,249 1749,252 1704,255 1659,258 1615,258 1570,258 1525,261 1480,267 1436,273 1391,279 1346,282 1301,288 1256,294 1212,300 1167,303 1122,309 1077,315 1032,318 988,321 943,327 898,327 853,333 809,339 764,345 719,351 674,360 629,366 585,375 540,381 498,399 474,402" rendition="Line" xml:id="facs_2_tr_3_tl_1"/>
         <zone points="456,495 471,495 516,495 561,492 606,486 650,480 695,471 740,468 785,459 829,459 874,456 919,453 964,447 1009,444 1053,438 1098,438 1143,435 1188,429 1232,426 1277,420 1322,417 1367,411 1412,411 1456,405 1501,402 1546,396 1591,390 1636,384 1680,378 1725,378 1770,375 1815,369 1859,366 1904,364 1949,361 1994,358 2039,355 2083,355 2128,355 2173,355 2218,355 2262,361 2307,364 2352,366 2397,372 2442,378 2486,381 2531,387 2576,390 2576,440 2531,437 2486,431 2442,428 2397,422 2352,416 2307,414 2262,411 2218,405 2173,405 2128,405 2083,405 2039,405 1994,408 1949,411 1904,414 1859,416 1815,419 1770,425 1725,428 1680,428 1636,434 1591,440 1546,446 1501,452 1456,455 1412,461 1367,461 1322,467 1277,470 1232,476 1188,479 1143,485 1098,488 1053,488 1009,494 964,497 919,503 874,506 829,509 785,509 740,518 695,521 650,530 606,536 561,542 516,545 471,545 456,545" rendition="Line" xml:id="facs_2_tr_3_tl_2"/>
@@ -132,7 +132,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="2349" lry="3686" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpg" width="2349px" height="3686px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00085.jpg" width="2349px" height="3686px"/>
     <zone points="708,1578 1499,1583 1604,2678 813,2673" rendition="TextRegion" xml:id="facs_3_tr_1">
         <zone points="1014,2558 995,2034 1003,1695 1053,1696 1045,2034 1064,2556" rendition="Line" xml:id="facs_3_line_1674815664175_1861"/>
         <zone points="1135,2583 1163,2135 1152,1730 1202,1729 1213,2136 1185,2586" rendition="Line" xml:id="facs_3_line_1674815667604_1866"/>
@@ -144,7 +144,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=SWHYQZODGJPUVAAYATYUQURN&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00083.jpg"/>
     <ab facs="#facs_1_tr_1" >
       <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Durchleüchtiger Fürst, herz allerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Ich hab dero libsts schreiben durch den curir
@@ -160,7 +160,7 @@
       <lb facs="#facs_1_line_1674815552823_1779" n="N012"/>her beschriben werden, so wirt alles aiustirt
       <lb facs="#facs_1_line_1674815558643_1784" n="N013"/>werden. Mit dem Herzoch ist wider beßer,
       <lb facs="#facs_1_line_1674815568818_1789" n="N014"/>izt, hoff ich woll, werd es ein mahl ein</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=UOFTWWQBYTLSEPTFSRHTYAHQ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00084.jpg"/>
     <ab facs="#facs_2_tr_3" >
       <lb facs="#facs_2_tr_3_tl_1" n="N001"/>bestandt haben. Der Herzoch von Mantua geht
       <lb facs="#facs_2_tr_3_tl_2" n="N002"/>wider ins felt, hatt vill leüt, auch ein guarde
@@ -178,7 +178,7 @@
       <lb facs="#facs_2_line_1674815626797_1842" n="N014"/><choice><expan>herren</expan><abbr>h</abbr></choice> brüder alle herzlich zue grüeßen, ich mein,
       <lb facs="#facs_2_line_1674815636747_1847" n="N015"/>der Bischoff vnd Deütschmeister werden auch schon
       <lb facs="#facs_2_line_1674815642248_1852" n="N016"/>dort sein, mit nechstem werd ihnen sch<supplied >r</supplied>eiben.</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+    <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=DPNAWERRIVJGYQAYELKXHKVJ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00085.jpg"/>
     <ab facs="#facs_3_tr_1" >
       <lb facs="#facs_3_line_1674815664175_1861" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> Johan Wilhelm
       <lb facs="#facs_3_line_1674815667604_1866" n="N002"/>Pfalzgrauen bey Reyhn,

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___77-8811-korrespondenz-kurfursten-2.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="2529" lry="3776" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="2529px" height="3776px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00073.jpg" width="2529px" height="3776px"/>
     <zone points="82,482 2457,476 2491,3643 116,3649" rendition="TextRegion" xml:id="facs_1_region_1674814763093_1286">
         <zone points="473,697 954,689 1556,667 2423,596 2427,646 1559,717 955,739 474,747" rendition="Line" xml:id="facs_1_line_1674814770203_1289"/>
         <zone points="375,895 919,862 1710,802 2388,755 2391,805 1713,852 922,912 378,945" rendition="Line" xml:id="facs_1_line_1674814774851_1294"/>
@@ -115,16 +115,16 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="4032" lry="3024" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpg" width="4032px" height="3024px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00076-20230117_145354.jpg" width="4032px" height="3024px"/>
   </surface>
   <surface ulx="0" uly="0" lrx="4032" lry="3024" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpg" width="4032px" height="3024px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00077-20230117_145401.jpg" width="4032px" height="3024px"/>
   </surface>
   <surface ulx="0" uly="0" lrx="4032" lry="3024" xml:id="facs_4">
-    <graphic url="%2Ffiles.jpg" width="4032px" height="3024px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00078-20230117_145408.jpg" width="4032px" height="3024px"/>
   </surface>
   <surface ulx="0" uly="0" lrx="2563" lry="3710" xml:id="facs_5">
-    <graphic url="%2Ffiles.jpg" width="2563px" height="3710px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00075.jpg" width="2563px" height="3710px"/>
     <zone points="441,391 2533,391 2496,3410 404,3410" rendition="TextRegion" xml:id="facs_5_tr_1">
         <zone points="549,528 564,525 608,522 653,522 698,519 743,513 787,513 832,510 877,507 922,510 967,510 1011,507 1056,501 1101,501 1146,498 1190,498 1235,492 1280,489 1325,486 1369,483 1414,480 1459,471 1504,468 1549,462 1593,456 1638,453 1683,447 1728,444 1772,438 1817,435 1862,429 1907,423 1952,420 1996,417 2041,411 2086,405 2131,402 2175,399 2220,396 2265,399 2310,402 2354,411 2354,461 2310,452 2265,449 2220,446 2175,449 2131,452 2086,455 2041,461 1996,467 1952,470 1907,473 1862,479 1817,485 1772,488 1728,494 1683,497 1638,503 1593,506 1549,512 1504,518 1459,521 1414,530 1369,533 1325,536 1280,539 1235,542 1190,548 1146,548 1101,551 1056,551 1011,557 967,560 922,560 877,557 832,560 787,563 743,563 698,569 653,572 608,572 564,575 549,578" rendition="Line" xml:id="facs_5_tr_1_tl_1"/>
         <zone points="516,677 549,671 593,668 638,665 683,659 728,659 773,659 817,656 862,659 907,656 952,656 996,659 1041,656 1086,656 1131,656 1175,653 1220,650 1265,647 1310,644 1355,644 1399,641 1444,638 1489,635 1534,629 1578,626 1623,623 1668,614 1713,602 1757,602 1802,596 1847,587 1892,584 1937,581 1981,575 2026,575 2071,572 2116,566 2160,566 2205,563 2250,563 2295,563 2340,563 2384,563 2429,566 2429,616 2384,613 2340,613 2295,613 2250,613 2205,613 2160,616 2116,616 2071,622 2026,625 1981,625 1937,631 1892,634 1847,637 1802,646 1757,652 1713,652 1668,664 1623,673 1578,676 1534,679 1489,685 1444,688 1399,691 1355,694 1310,694 1265,697 1220,700 1175,703 1131,706 1086,706 1041,706 996,709 952,706 907,706 862,709 817,706 773,709 728,709 683,709 638,715 593,718 549,721 516,727" rendition="Line" xml:id="facs_5_tr_1_tl_2"/>
@@ -150,7 +150,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=UOFGTUNJUALQXVCTDVBIVJUC&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00073.jpg"/>
     <ab facs="#facs_1_region_1674814763093_1286" >
       <lb facs="#facs_1_line_1674814770203_1289" n="N001"/>Durchleüchtiger Fürst, mein herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_line_1674814774851_1294" n="N002"/>Ich hette dero liebsts schreiben vom 18ten passato
@@ -170,10 +170,10 @@
       <lb facs="#facs_1_line_1674814902442_1367" n="N016"/>Wegen der Giulia ist schon gericht. Ich mus
       <lb facs="#facs_1_line_1674814909339_1372" n="N017"/>aber dero Liebden wider vngelegenheit machen, meiner
       <lb facs="#facs_1_line_1674814916895_1377" n="N018"/>Amel <choice><expan>sehligen</expan><abbr>sehl</abbr></choice> dochter hatt mihr dis memorial</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-    <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=EGBEXZCCXSVOXOGFFFWANLNI&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00076-20230117_145354.jpg"/>
+    <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=JMFXVYPJLGIOFFSIXNUUJHMT&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00077-20230117_145401.jpg"/>
+    <pb facs="#facs_4" n="4" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=CJSNZTISCWAQRCXNKSWYIGBL&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00078-20230117_145408.jpg"/>
+    <pb facs="#facs_5" n="5" xml:id="img_0005" source="https://files.transkribus.eu/Get?id=SYRJIFDTZAUDUJUJDPABROCR&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00075.jpg"/>
     <ab facs="#facs_5_tr_1" >
       <lb facs="#facs_5_tr_1_tl_1" n="N001"/>geschikt, dero Liebden zu recomendirn, wan der kerl
       <lb facs="#facs_5_tr_1_tl_2" n="N002"/>dauglich darzue ist, woll ihn dero Liebden laßen recomen-

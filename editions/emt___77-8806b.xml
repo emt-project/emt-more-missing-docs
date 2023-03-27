@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___77-8806b.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="527" lry="816" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="527px" height="816px"/>
+    <graphic url="77_8806b_00122.jpg" width="527px" height="816px"/>
     <zone points="43,208 500,208 500,443 499,710 52,710 43,622" rendition="TextRegion" xml:id="facs_1_TextRegion_1674826322853_2446">
         <zone points="94,224 101,224 115,224 128,225 141,225 154,226 167,225 180,225 194,225 207,225 220,226 233,226 246,228 259,227 273,226 286,226 299,225 312,223 325,223 339,222 352,222 365,222 378,221 391,220 404,217 418,217 431,216 444,215 457,214 470,213 470,263 457,264 444,265 431,266 418,267 404,267 391,270 378,271 365,272 352,272 339,272 325,273 312,273 299,275 286,276 273,276 259,277 246,278 233,276 220,276 207,275 194,275 180,275 167,275 154,276 141,275 128,275 115,274 101,274 94,274" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
         <zone points="49,269 53,267 66,267 79,265 93,265 106,266 119,266 132,265 145,265 158,265 172,265 173,265 179,265 192,266 205,266 218,267 231,267 245,267 258,267 271,266 284,265 297,265 310,265 324,263 337,262 350,260 363,260 376,260 389,259 403,257 416,256 429,255 442,255 455,255 469,254 482,254 495,256 450,280 500,283 469,304 455,305 442,305 429,305 416,306 403,307 389,309 376,310 363,310 350,310 337,312 324,313 310,315 297,315 284,315 271,316 258,317 245,317 231,317 218,317 205,316 192,316 179,315 173,315 172,315 158,315 145,315 132,315 119,316 106,316 93,315 79,315 66,317 53,317 49,319" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -108,7 +108,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="500" lry="744" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpg" width="500px" height="744px"/>
+    <graphic url="77_8806b_00123.jpg" width="500px" height="744px"/>
     <zone points="34,4 485,4 485,278 34,278" rendition="TextRegion" xml:id="facs_2_tr_1">
         <zone points="43,9 55,9 68,10 80,10 93,13 105,14 118,14 130,14 143,15 155,15 168,14 180,14 193,14 205,14 218,14 230,14 243,13 255,13 268,12 280,13 293,12 305,13 316,11 316,11 329,12 342,12 354,13 367,13 379,13 392,14 404,14 417,15 429,14 442,14 454,14 467,16 479,19 485,19 485,69 479,69 467,66 454,64 442,64 429,64 417,65 404,64 392,64 379,63 367,63 354,63 342,62 329,62 316,61 316,61 305,63 293,62 280,63 268,62 255,63 243,63 230,64 218,64 205,64 193,64 180,64 168,64 155,65 143,65 130,64 118,64 105,64 93,63 80,60 68,60 55,59 43,59" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
         <zone points="34,61 36,61 49,62 61,62 74,63 86,63 99,63 111,64 124,64 136,64 149,63 161,63 174,63 186,62 199,62 211,62 224,61 236,61 249,60 261,59 274,59 286,59 299,59 311,60 324,61 336,59 349,59 361,60 374,60 386,62 399,64 411,64 411,64 424,69 436,69 446,69 446,119 436,119 424,119 411,114 411,114 399,114 386,112 374,110 361,110 349,109 336,109 324,111 311,110 299,109 286,109 274,109 261,109 249,110 236,111 224,111 211,112 199,112 186,112 174,113 161,113 149,113 136,114 124,114 111,114 99,113 86,113 74,113 61,112 49,112 36,111 34,111" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
@@ -124,7 +124,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=VUPKPHFJEBDAVWOPHKILZIAJ&amp;fileType=view" id="77_8806b_00122.jpg"/>
     <ab facs="#facs_1_TextRegion_1674826322853_2446" >
       <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
       <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Mitt der gelegenheit des <choice><expan>Graven</expan><abbr>G</abbr></choice> Lowenstein hab ich nit <unclear>vortsch</unclear>
@@ -137,7 +137,7 @@
       <lb facs="#facs_1_tr_3_tl_4" n="N009"/>dan ein mahl ist kein general absolute,
       <lb facs="#facs_1_tr_2_tl_1" n="N010"/>der den handel versteht wie ehr, vndt
       <lb facs="#facs_1_tr_2_tl_2" n="N011"/>solten mihr ihn nit haben, wer das totum </ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=UJHRUMHAFPJCGCTFDKNGITSS&amp;fileType=view" id="77_8806b_00123.jpg"/>
     <ab facs="#facs_2_tr_1" >
       <lb facs="#facs_2_tr_1_tl_1" n="N001"/>in höchste gefahr gesezt. In übrigen wirt er <unclear>lebesten</unclear>
       <lb facs="#facs_2_tr_1_tl_2" n="N002"/>dero Liebden alles infor<supplied >m</supplied>iren, darauf ich mich bez<supplied >i</supplied>eh.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___77-8811-korrespondenz-kurfursten-4.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="2505" lry="3947" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="2505px" height="3947px"/>
+    <graphic url="77_8811_Korrespondenz Karlsruhe_00082.jpg" width="2505px" height="3947px"/>
     <zone points="182,782 2417,792 2439,3724 204,3714" rendition="TextRegion" xml:id="facs_1_tr_2">
         <zone points="377,1009 1022,993 2303,990 2303,1040 1023,1043 378,1059" rendition="Line" xml:id="facs_1_line_1674815346539_1653"/>
         <zone points="390,1160 1081,1144 1971,1157 2412,1146 2413,1196 1971,1207 1081,1194 391,1210" rendition="Line" xml:id="facs_1_line_1674815351190_1658"/>
@@ -116,7 +116,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=XBOEJQZWODRZRCTXPZGRMIUA&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00082.jpg"/>
     <ab facs="#facs_1_tr_2" >
       <lb facs="#facs_1_line_1674815346539_1653" n="N001"/>Durchleüchtiger Fürst, herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
       <lb facs="#facs_1_line_1674815351190_1658" n="N002"/>Ich verhoffe, dero Liebden werden dero reis glükhlich vortsezen,

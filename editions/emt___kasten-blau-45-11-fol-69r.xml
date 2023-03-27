@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id=""
+   xml:id="emt___kasten-blau-45-11-fol-69r.xml"
    xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -92,7 +92,7 @@
    </teiHeader>
    <facsimile>
   <surface ulx="0" uly="0" lrx="1647" lry="2481" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpg" width="1647px" height="2481px"/>
+    <graphic url="Kasten_blau_45-11_fol_69r.jpg" width="1647px" height="2481px"/>
     <zone points="300,452 1584,452 1598,1384 1598,2436 94,2436 94,1384" rendition="TextRegion" xml:id="facs_1_TextRegion_1677165360159_498">
         <zone points="384,491 396,489 426,487 456,485 486,483 516,479 546,477 576,475 606,475 636,475 666,475 696,471 726,467 756,467 786,471 816,473 846,469 876,471 906,469 936,471 966,469 996,471 1026,471 1056,471 1086,469 1116,467 1146,465 1176,465 1206,463 1236,461 1266,461 1296,465 1326,465 1356,463 1386,463 1416,461 1446,457 1476,457 1476,507 1446,507 1416,511 1386,513 1356,513 1326,515 1296,515 1266,511 1236,511 1206,513 1176,515 1146,515 1116,517 1086,519 1056,521 1026,521 996,521 966,519 936,521 906,519 876,521 846,519 816,523 786,521 756,517 726,517 696,521 666,525 636,525 606,525 576,525 546,527 516,529 486,533 456,535 426,537 396,539 384,541" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
         <zone points="336,581 366,575 396,569 426,565 456,563 486,561 666,553 1448,527 1478,527 1478,577 1358,587 1118,603 1088,605 334,633 334,583" rendition="Line" xml:id="facs_1_line_1677165407886_548"/>
@@ -126,7 +126,7 @@
    <text type="letter">
    <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=GGOYCFEUKWEMKWZOYPAHAYIN&amp;fileType=view" id="Kasten_blau_45-11_fol_69r.jpg"/>
     <ab facs="#facs_1_TextRegion_1677165360159_498" >
       <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Durchleuchtiger Fürst, herz allerliebster herr vatter
       <lb facs="#facs_1_line_1677165407886_548" n="N002"/>Dieweilen mihr, in dem sich das wetter anfanget
