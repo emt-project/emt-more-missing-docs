@@ -34,7 +34,6 @@ for x in mets:
     img_doc = TeiReader(x)
     item["img_file_names"] = img_doc.any_xpath(".//item/text()")
     img_map[doc_id] = item
-print(img_map)
 
 files = glob.glob("./alltei/*.xml")
 
@@ -43,10 +42,14 @@ for x in files:
     item['current_date'] = f"{date.today()}"
     heads, tail = os.path.split(x)
     doc_id = tail.replace('_tei.xml', '')
+    
     item["doc_id"] = doc_id
     item["col_id"] = img_map[doc_id]["col_id"]
     doc = TeiReader(x)
     title = doc.any_xpath('.//tei:title[@type="main"]/text()')[0]
+    item["title"] = f"FIX ME: {title} "
+    item["sender"] = "Eleonora Magdalena von Pfalz-Neuburg"
+    item["sender_id"] = "emt_person_id__9"
     file_name = f"{slugify(title)}.xml"
     save_path = os.path.join(out_dir, file_name)
     facsimile = doc.any_xpath(".//tei:facsimile")[0]

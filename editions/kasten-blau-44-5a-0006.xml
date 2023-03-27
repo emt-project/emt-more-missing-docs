@@ -6,12 +6,14 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main"></title>
+            <title type="main">FIX ME: Kasten_blau_44_5a_0006 </title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
-            <author></author>
+            <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
-               <name>Katrin Keller</name>
-            </editor>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+               <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+               <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+               </editor>
             <funder>
                <name>FWF - Der Wissenschaftsfonds</name>
                <address>
@@ -73,7 +75,7 @@
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#"></persName>
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#"></placeName>
                <date ></date>
             </correspAction>
