@@ -2,10 +2,8 @@ import glob
 import jinja2
 import os
 from acdh_tei_pyutils.tei import TeiReader
-from dateutil.parser import parse, ParserError
 from datetime import date
 from slugify import slugify
-import tqdm
 import lxml.etree as ET
 
 out_dir = "editions"
@@ -40,8 +38,13 @@ print(img_map)
 
 files = glob.glob("./alltei/*.xml")
 
-for x in tqdm(files, total=len(files)):
+for x in files:
     item = {}
+    item['current_date'] = f"{date.today()}"
+    heads, tail = os.path.split(x)
+    doc_id = tail.replace('_tei.xml', '')
+    item["doc_id"] = doc_id
+    item["col_id"] = img_map[doc_id]["col_id"]
     doc = TeiReader(x)
     title = doc.any_xpath('.//tei:title[@type="main"]/text()')[0]
     file_name = f"{slugify(title)}.xml"

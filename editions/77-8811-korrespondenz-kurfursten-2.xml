@@ -58,8 +58,8 @@
                   </msDesc>
                </witness>
                <witness n="2">
-                  <idno type="transkribus-col-id"></idno>
-                  <idno type="transkribus-doc-id"></idno>
+                  <idno type="transkribus-col-id">181049</idno>
+                  <idno type="transkribus-doc-id">1370729</idno>
                </witness>
             </listWit>
          </sourceDesc>
@@ -85,7 +85,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-03-27">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
