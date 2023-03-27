@@ -1,0 +1,5 @@
+acdh-tei-pyutils
+jinja2
+pandas
+tqdm
+acdh-transkribus-utils
