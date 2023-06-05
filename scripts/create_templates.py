@@ -45,7 +45,11 @@ for x in files:
 
     item["doc_id"] = doc_id
     item["col_id"] = img_map[doc_id]["col_id"]
-    doc = TeiReader(x)
+    try:
+        doc = TeiReader(x)
+    except Exception as e:
+        print(doc_id, e)
+        continue
     title = doc.any_xpath('.//tei:title[@type="main"]/text()')[0]
     item["title"] = f"FIX ME: {title} "
     item["sender"] = "Eleonora Magdalena von Pfalz-Neuburg"

@@ -1,3 +1,6 @@
+python scripts/fetch_mets.py
+python scripts/move_mets.py
+
 mkdir -p alltei
 for file in ./metsout/*.xml
   do 
@@ -7,3 +10,5 @@ for file in ./metsout/*.xml
   java -jar ./saxon/saxon9he.jar -xsl:./page2tei/page2tei-0.xsl -s:$file -o:$new
 #   xsltproc myxslt.xsl $file > $file.output.txt
 done
+
+python scripts/create_templates.py
