@@ -54,7 +54,7 @@ for x in files:
     item["title"] = f"FIX ME: {title} "
     item["sender"] = "Eleonora Magdalena von Pfalz-Neuburg"
     item["sender_id"] = "emt_person_id__9"
-    file_name = f"emt___{slugify(title)}.xml"
+    file_name = f"{slugify(title)}.xml"
     item["file_name"] = file_name
     save_path = os.path.join(out_dir, file_name)
     for i, pb in enumerate(doc.any_xpath(".//tei:graphic")):
